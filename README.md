@@ -85,14 +85,6 @@ SwiftUI cryptocurrency application demonstrating reactive data handling, API int
 
 ---
 
-### 🧠 [Core ML Dog Breed Classifier](https://github.com/Anurag171992/DogBreederClassifier)
-
-iOS application using a custom Core ML model to classify dog breeds and display prediction confidence.
-
-**Highlights:** `SwiftUI` `Core ML` `Machine Learning` `Image Classification`
-
----
-
 ## 📊 GitHub Stats
 
 ![Anurag's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anurag171992&show_icons=true&hide_border=true&rank_icon=github)
