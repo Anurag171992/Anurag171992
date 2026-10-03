@@ -1,6 +1,8 @@
 # Hi, I'm Anurag Kashyap 👋
 
-### Senior iOS Engineer | Swift • SwiftUI • UIKit • Swift Concurrency
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&vCenter=true&width=650&lines=Senior+iOS+Engineer;Swift+%E2%80%A2+SwiftUI+%E2%80%A2+UIKit;Clean+Architecture+%E2%80%A2+Swift+Concurrency;Testing+%E2%80%A2+CI%2FCD+%E2%80%A2+AI+Integration" alt="Typing SVG" />
+</p>
 
 Senior iOS Engineer with 8+ years of experience building reliable, scalable, and maintainable iOS applications. Experienced in modern iOS development, application architecture, concurrency, testing, CI/CD, and AI-powered mobile experiences.
 
@@ -85,7 +87,16 @@ SwiftUI cryptocurrency application demonstrating reactive data handling, API int
 
 ---
 
+### 🧠 [Core ML Dog Breed Classifier](https://github.com/Anurag171992/DogBreederClassifier)
+
+iOS application using a custom Core ML model to classify dog breeds and display prediction confidence.
+
+**Highlights:** `SwiftUI` `Core ML` `Machine Learning` `Image Classification`
+
+---
+
 ## 📊 GitHub Stats
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anurag171992&show_icons=true&hide_border=true&rank_icon=github&custom_title=GitHub%20Stats)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anurag171992&layout=compact&hide_border=true)
