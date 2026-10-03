@@ -2,16 +2,21 @@
 
 ### Senior iOS Engineer | Swift • SwiftUI • UIKit • Swift Concurrency
 
-iOS CI/CD pipeline using GitHub Actions with automated builds, XCTest, code coverage, SwiftLint, GitHub Secrets, PR validation and branch protection.
+Senior iOS Engineer with 8+ years of experience building reliable, scalable, and maintainable iOS applications. Experienced in modern iOS development, application architecture, concurrency, testing, CI/CD, and AI-powered mobile experiences.
+
+---
 
 ## 👨‍💻 About Me
 
 - 📱 8+ years of experience in iOS application development
 - 🏗️ Experienced with Clean Architecture, MVVM, SOLID principles, and Dependency Injection
-- ⚡ Working with Swift Concurrency, async/await, Actors, and GCD
-- 🧪 Focused on unit testing, code quality, and maintainable code
-- 🔄 Experience building CI pipelines using GitHub Actions
-- 🤖 Exploring AI integration and Machine Learning in iOS applications
+- ⚡ Building responsive applications using Swift Concurrency, async/await, Actors, and GCD
+- 🧪 Focused on unit testing, code quality, maintainability, and reliable application behavior
+- 🔄 Hands-on experience building iOS CI pipelines using GitHub Actions
+- 🤖 Exploring AI integration, LLM-powered applications, and Machine Learning on iOS
+- 📦 Building reusable and testable Swift components and packages
+
+---
 
 ## 🛠️ Tech Stack
 
@@ -19,7 +24,7 @@ iOS CI/CD pipeline using GitHub Actions with automated builds, XCTest, code cove
 `Swift` `SwiftUI` `UIKit` `Combine` `Core Data`
 
 **Architecture & Design**  
-`Clean Architecture` `MVVM` `SOLID` `Repository Pattern` `Dependency Injection`
+`Clean Architecture` `MVVM` `SOLID` `Repository Pattern` `Dependency Injection` `Coordinator Pattern`
 
 **Concurrency**  
 `Swift Concurrency` `async/await` `Actors` `GCD`
@@ -28,42 +33,81 @@ iOS CI/CD pipeline using GitHub Actions with automated builds, XCTest, code cove
 `URLSession` `REST APIs` `Codable`
 
 **Testing & Code Quality**  
-`XCTest` `SwiftLint` `Code Coverage`
+`XCTest` `SwiftLint` `Code Coverage` `Unit Testing`
 
-**CI/CD & Tools**  
-`Git` `GitHub` `GitHub Actions` `Xcode`
+**CI/CD & Development Tools**  
+`Git` `GitHub` `GitHub Actions` `Xcode` `CI/CD`
 
 **AI & Machine Learning**  
 `OpenAI API` `Embeddings` `Vector Databases` `Core ML`
 
+---
 
 ## 🚀 Featured Projects
 
 ### 🏗️ [Clean Architecture iOS App](https://github.com/Anurag171992/CleanArchitecture)
-SwiftUI application demonstrating Clean Architecture, MVVM, Repository Pattern,
-Dependency Injection, Coordinator Pattern, SOLID principles, and Swift Concurrency.
+
+SwiftUI application demonstrating Clean Architecture, MVVM, Repository Pattern, Dependency Injection, Coordinator Pattern, SOLID principles, and Swift Concurrency.
+
+**Highlights:** `SwiftUI` `Clean Architecture` `MVVM` `SOLID` `Dependency Injection` `Swift Concurrency`
+
+---
 
 ### 🤖 [AI PDF Chatbot](https://github.com/Anurag171992/Chatbot-App)
-iOS application that processes PDF content, generates embeddings, and enables
-question-answering using the OpenAI API and vector search.
+
+AI-powered iOS application that processes PDF content, generates embeddings, and enables question-answering using the OpenAI API and vector search.
+
+**Highlights:** `SwiftUI` `OpenAI API` `Embeddings` `Vector Search` `AI`
+
+---
 
 ### 📦 [SwiftNetworkKit](https://github.com/Anurag171992/SwiftNetworkKit)
-Reusable Swift networking package built with async/await, type-safe endpoints,
-dependency injection, structured error handling, and testability.
+
+Reusable Swift networking package designed around async/await, type-safe endpoints, dependency injection, structured error handling, and testability.
+
+**Highlights:** `Swift Package` `async/await` `URLSession` `Dependency Injection` `Unit Testing`
+
+---
 
 ### 🔄 [iOS CI with GitHub Actions](https://github.com/Anurag171992/GitHubActions)
-GitHub Actions pipeline for an iOS application with automated builds, XCTest,
-code coverage, SwiftLint, GitHub Secrets, pull-request validation, and branch protection.
+
+GitHub Actions CI pipeline for an iOS application with automated builds, XCTest execution, code coverage, SwiftLint, GitHub Secrets, pull-request validation, and branch protection.
+
+**Highlights:** `GitHub Actions` `XCTest` `SwiftLint` `Code Coverage` `GitHub Secrets` `CI`
+
+---
 
 ### 📈 [Crypto Tracker](https://github.com/Anurag171992/Crypto-Tracker)
-SwiftUI cryptocurrency application using MVVM, Combine, Core Data,
-API integration, and portfolio management.
+
+SwiftUI cryptocurrency application demonstrating reactive data handling, API integration, local persistence, and portfolio management.
+
+**Highlights:** `SwiftUI` `MVVM` `Combine` `Core Data` `REST API`
+
+---
+
+### 🧠 [Core ML Dog Breed Classifier](https://github.com/Anurag171992/DogBreederClassifier)
+
+iOS application using a custom Core ML model to classify dog breeds and display prediction confidence.
+
+**Highlights:** `SwiftUI` `Core ML` `Machine Learning` `Image Classification`
+
+---
 
 ## 📊 GitHub Stats
+
 ![Anurag's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anurag171992&show_icons=true&hide_border=true&rank_icon=github)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anurag171992&layout=compact&hide_border=true)
+
+---
 
 ## 🤝 Connect With Me
 
-- 💼 LinkedIn: [Anurag Kashyap](https://www.linkedin.com/in/anurag-kashyap-2a1b22a0/)
-- 📧 Email: anuragsaikashyap@gmail.com
+💼 [LinkedIn](https://www.linkedin.com/in/anurag-kashyap-2a1b22a0/)  
+📧 [anuragsaikashyap@gmail.com](mailto:anuragsaikashyap@gmail.com)
+
+---
+
+### 💡 What I Focus On
+
+> Building iOS applications that are not only functional, but also maintainable, testable, scalable, and reliable.
