@@ -52,4 +52,4 @@ Senior iOS Engineer with 8+ years of experience building reliable, scalable, and
 
 **Clean Architecture • Reliable Code • Performance • Testability • Scalability**
 
-I focus on building iOS applications that are designed to evolve — with clear architecture, predictable behaviour, and code that remains maintainable as products grow.
+I focus on building iOS applications that are designed to evolve with clear architecture, predictable behaviour, and code that remains maintainable as products grow.
