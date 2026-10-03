@@ -1,4 +1,6 @@
-# Hi, I'm Anurag Kashyap 👋
+# 👨‍💻 Anurag Kashyap
+
+### Building iOS experiences, one commit at a time. 🚀
 
 <p align="left">
   <img
