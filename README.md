@@ -2,7 +2,7 @@
 
 <p align="left">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=1000&color=007AFF&vCenter=true&width=800&lines=Senior+iOS+Engineer+%F0%9F%93%B1;Swift+%E2%80%A2+SwiftUI+%E2%80%A2+UIKit;Clean+Architecture+%E2%80%A2+MVVM+%E2%80%A2+SOLID+Principles;Swift+Concurrency+%E2%80%A2+async%2Fawait+%E2%80%A2+Actors+%E2%80%A2+GCD;Combine+%E2%80%A2+Core+Data+%E2%80%A2+REST+APIs;XCTest+%E2%80%A2+SwiftLint+%E2%80%A2+GitHub+Actions;AI+Integration+%E2%80%A2+Core+ML+%E2%80%A2+OpenAI"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=1000&color=007AFF&vCenter=true&width=850&lines=%F0%9F%93%B1+Senior+iOS+Engineer;%F0%9F%8D%8E+Swift+%E2%80%A2+SwiftUI+%E2%80%A2+UIKit;%F0%9F%8F%97%EF%B8%8F+Clean+Architecture+%E2%80%A2+MVVM+%E2%80%A2+SOLID+Principles;%E2%9A%A1+Swift+Concurrency+%E2%80%A2+async%2Fawait+%E2%80%A2+Actors+%E2%80%A2+GCD;%F0%9F%94%84+Combine+%E2%80%A2+Core+Data+%E2%80%A2+REST+APIs;%F0%9F%A7%AA+XCTest+%E2%80%A2+SwiftLint+%E2%80%A2+GitHub+Actions;%F0%9F%A4%96+AI+Integration+%E2%80%A2+Core+ML+%E2%80%A2+OpenAI"
     alt="Typing SVG"
   />
 </p>
