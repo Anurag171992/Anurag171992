@@ -55,6 +55,6 @@ Senior iOS Engineer with 8+ years of experience building reliable, scalable, and
 
 ---
 
-### 💡 What I Focus On
+### 💡 Engineering Philosophy
 
-> Building iOS applications that are not only functional, but also maintainable, testable, scalable, and reliable.
+> Building iOS applications with a focus on clean architecture, reliability, performance, testability, and long-term maintainability — not just making features work, but engineering them to scale.
