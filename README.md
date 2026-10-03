@@ -1,7 +1,10 @@
 # Hi, I'm Anurag Kashyap 👋
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&vCenter=true&width=650&lines=Senior+iOS+Engineer;Swift+%E2%80%A2+SwiftUI+%E2%80%A2+UIKit;Clean+Architecture+%E2%80%A2+Swift+Concurrency;Testing+%E2%80%A2+CI%2FCD+%E2%80%A2+AI+Integration" alt="Typing SVG" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=1000&color=007AFF&vCenter=true&width=700&lines=Senior+iOS+Engineer+%F0%9F%93%B1;Swift+%E2%80%A2+SwiftUI+%E2%80%A2+UIKit;Clean+Architecture+%E2%80%A2+Swift+Concurrency;Testing+%E2%80%A2+CI%2FCD+%E2%80%A2+AI+Integration"
+    alt="Typing SVG"
+  />
 </p>
 
 Senior iOS Engineer with 8+ years of experience building reliable, scalable, and maintainable iOS applications. Experienced in modern iOS development, application architecture, concurrency, testing, CI/CD, and AI-powered mobile experiences.
