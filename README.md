@@ -40,26 +40,26 @@ mobile applications using modern Swift technologies.
 
 ## 🚀 Featured Projects
 
-### 🏗️ Clean Architecture iOS App
+### 🏗️ [Clean Architecture iOS App](https://github.com/Anurag171992/CleanArchitecture)
 SwiftUI application demonstrating Clean Architecture, MVVM, Repository Pattern,
 Dependency Injection, Coordinator Pattern, SOLID principles, and Swift Concurrency.
 
-### 🤖 AI PDF Chatbot
+### 🤖 [AI PDF Chatbot](https://github.com/Anurag171992/Chatbot-App)
 iOS application that processes PDF content, generates embeddings, and enables
 question-answering using the OpenAI API and vector search.
 
-### 📦 SwiftNetworkKit
+### 📦 [SwiftNetworkKit](https://github.com/Anurag171992/SwiftNetworkKit)
 Reusable Swift networking package built with async/await, type-safe endpoints,
 dependency injection, structured error handling, and testability.
 
-### 🔄 iOS CI/CD with GitHub Actions
+### 🔄 [iOS CI/CD with GitHub Actions](https://github.com/Anurag171992/GitHubActions)
 GitHub Actions pipeline for an iOS application with automated builds, XCTest,
 code coverage, SwiftLint, GitHub Secrets, pull-request validation, and branch protection.
 
-### 📈 Crypto Tracker
+### 📈 [Crypto Tracker](https://github.com/Anurag171992/Crypto-Tracker)
 SwiftUI cryptocurrency application using MVVM, Combine, Core Data,
 API integration, and portfolio management.
 
-### 🧠 Core ML Dog Breed Classifier
+### 🧠 [Core ML Dog Breed Classifier](https://github.com/Anurag171992/DogBreederClassifier)
 SwiftUI application using a custom Core ML model to classify dog breeds
 and display prediction confidence.
