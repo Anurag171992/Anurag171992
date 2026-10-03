@@ -67,3 +67,8 @@ and display prediction confidence.
 ## 📊 GitHub Stats
 ![Anurag's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anurag171992&show_icons=true&hide_border=true&rank_icon=github)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anurag171992&layout=compact&hide_border=true)
+
+## 🤝 Connect With Me
+
+- 💼 LinkedIn: [Anurag Kashyap](https://www.linkedin.com/in/anurag-kashyap-2a1b22a0/)
+- 📧 Email: anuragsaikashyap@gmail.com
