@@ -67,5 +67,4 @@ and display prediction confidence.
 ## 📊 GitHub Stats
 
 ![Anurag's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anurag171992&show_icons=true&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anurag171992&layout=compact&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anurag171992&layout=compact&hide_border=true&hide=C%2B%2B,C)
