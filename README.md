@@ -48,56 +48,6 @@ Senior iOS Engineer with 8+ years of experience building reliable, scalable, and
 
 ---
 
-## 🚀 Featured Projects
-
-### 🏗️ [Clean Architecture iOS App](https://github.com/Anurag171992/CleanArchitecture)
-
-SwiftUI application demonstrating Clean Architecture, MVVM, Repository Pattern, Dependency Injection, Coordinator Pattern, SOLID principles, and Swift Concurrency.
-
-**Highlights:** `SwiftUI` `Clean Architecture` `MVVM` `SOLID` `Dependency Injection` `Swift Concurrency`
-
----
-
-### 🤖 [AI PDF Chatbot](https://github.com/Anurag171992/Chatbot-App)
-
-AI-powered iOS application that processes PDF content, generates embeddings, and enables question-answering using the OpenAI API and vector search.
-
-**Highlights:** `SwiftUI` `OpenAI API` `Embeddings` `Vector Search` `AI`
-
----
-
-### 📦 [SwiftNetworkKit](https://github.com/Anurag171992/SwiftNetworkKit)
-
-Reusable Swift networking package designed around async/await, type-safe endpoints, dependency injection, structured error handling, and testability.
-
-**Highlights:** `Swift Package` `async/await` `URLSession` `Dependency Injection` `Unit Testing`
-
----
-
-### 🔄 [iOS CI with GitHub Actions](https://github.com/Anurag171992/GitHubActions)
-
-GitHub Actions CI pipeline for an iOS application with automated builds, XCTest execution, code coverage, SwiftLint, GitHub Secrets, pull-request validation, and branch protection.
-
-**Highlights:** `GitHub Actions` `XCTest` `SwiftLint` `Code Coverage` `GitHub Secrets` `CI`
-
----
-
-### 📈 [Crypto Tracker](https://github.com/Anurag171992/Crypto-Tracker)
-
-SwiftUI cryptocurrency application demonstrating reactive data handling, API integration, local persistence, and portfolio management.
-
-**Highlights:** `SwiftUI` `MVVM` `Combine` `Core Data` `REST API`
-
----
-
-### 🧠 [Core ML Dog Breed Classifier](https://github.com/Anurag171992/DogBreederClassifier)
-
-iOS application using a custom Core ML model to classify dog breeds and display prediction confidence.
-
-**Highlights:** `SwiftUI` `Core ML` `Machine Learning` `Image Classification`
-
----
-
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anurag171992&show_icons=true&hide_border=true&rank_icon=github&custom_title=GitHub%20Stats)
