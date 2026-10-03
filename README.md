@@ -65,6 +65,5 @@ SwiftUI application using a custom Core ML model to classify dog breeds
 and display prediction confidence.
 
 ## 📊 GitHub Stats
-
-![Anurag's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anurag171992&show_icons=true&hide_border=true)
+![Anurag's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anurag171992&show_icons=true&hide_border=true&rank_icon=github)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anurag171992&layout=compact&hide_border=true)
