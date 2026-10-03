@@ -1,4 +1,4 @@
-# 🕺🏽 Hey, I'm Anurag Kashyap
+# 👨🏽‍💻 Anurag Kashyap
 
 ### Building iOS experiences, one commit at a time. 🚀
 
@@ -13,7 +13,7 @@ Senior iOS Engineer with 8+ years of experience building reliable, scalable, and
 
 ---
 
-## 👨🏽‍💻 About Me
+## 🕺🏽 About Me
 
 - 📱 8+ years of experience in iOS application development
 - 🏗️ Experienced with Clean Architecture, MVVM, SOLID principles, and Dependency Injection
