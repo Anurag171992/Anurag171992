@@ -86,8 +86,7 @@ SwiftUI cryptocurrency application demonstrating reactive data handling, API int
 ---
 
 ## 📊 GitHub Stats
-
-![Anurag's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anurag171992&show_icons=true&hide_border=true&rank_icon=github)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anurag171992&show_icons=true&hide_border=true&rank_icon=github&custom_title=GitHub%20Stats)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anurag171992&layout=compact&hide_border=true)
 
