@@ -48,13 +48,8 @@ Senior iOS Engineer with 8+ years of experience building reliable, scalable, and
 
 ---
 
-## 🤝 Connect With Me
+### 💡 Engineering Mindset
 
-💼 [LinkedIn](https://www.linkedin.com/in/anurag-kashyap-2a1b22a0/)  
-📧 [anuragsaikashyap@gmail.com](mailto:anuragsaikashyap@gmail.com)
+**Clean Architecture • Reliable Code • Performance • Testability • Scalability**
 
----
-
-### 💡 Engineering Philosophy
-
-> Building iOS applications with a focus on clean architecture, reliability, performance, testability, and long-term maintainability — not just making features work, but engineering them to scale.
+I focus on building iOS applications that are designed to evolve — with clear architecture, predictable behaviour, and code that remains maintainable as products grow.
