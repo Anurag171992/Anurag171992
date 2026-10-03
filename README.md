@@ -52,17 +52,13 @@ question-answering using the OpenAI API and vector search.
 Reusable Swift networking package built with async/await, type-safe endpoints,
 dependency injection, structured error handling, and testability.
 
-### 🔄 [iOS CI/CD with GitHub Actions](https://github.com/Anurag171992/GitHubActions)
+### 🔄 [iOS CI with GitHub Actions](https://github.com/Anurag171992/GitHubActions)
 GitHub Actions pipeline for an iOS application with automated builds, XCTest,
 code coverage, SwiftLint, GitHub Secrets, pull-request validation, and branch protection.
 
 ### 📈 [Crypto Tracker](https://github.com/Anurag171992/Crypto-Tracker)
 SwiftUI cryptocurrency application using MVVM, Combine, Core Data,
 API integration, and portfolio management.
-
-### 🧠 [Core ML Dog Breed Classifier](https://github.com/Anurag171992/DogBreederClassifier)
-SwiftUI application using a custom Core ML model to classify dog breeds
-and display prediction confidence.
 
 ## 📊 GitHub Stats
 ![Anurag's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anurag171992&show_icons=true&hide_border=true&rank_icon=github)
