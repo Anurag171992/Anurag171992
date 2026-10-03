@@ -36,3 +36,30 @@ mobile applications using modern Swift technologies.
 
 **AI & Machine Learning**  
 `OpenAI API` `Embeddings` `Vector Databases` `Core ML`
+
+
+## 🚀 Featured Projects
+
+### 🏗️ Clean Architecture iOS App
+SwiftUI application demonstrating Clean Architecture, MVVM, Repository Pattern,
+Dependency Injection, Coordinator Pattern, SOLID principles, and Swift Concurrency.
+
+### 🤖 AI PDF Chatbot
+iOS application that processes PDF content, generates embeddings, and enables
+question-answering using the OpenAI API and vector search.
+
+### 📦 SwiftNetworkKit
+Reusable Swift networking package built with async/await, type-safe endpoints,
+dependency injection, structured error handling, and testability.
+
+### 🔄 iOS CI/CD with GitHub Actions
+GitHub Actions pipeline for an iOS application with automated builds, XCTest,
+code coverage, SwiftLint, GitHub Secrets, pull-request validation, and branch protection.
+
+### 📈 Crypto Tracker
+SwiftUI cryptocurrency application using MVVM, Combine, Core Data,
+API integration, and portfolio management.
+
+### 🧠 Core ML Dog Breed Classifier
+SwiftUI application using a custom Core ML model to classify dog breeds
+and display prediction confidence.
