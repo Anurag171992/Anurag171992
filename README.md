@@ -13,3 +13,26 @@ mobile applications using modern Swift technologies.
 - 🧪 Focused on unit testing, code quality, and maintainable code
 - 🔄 Experience building CI pipelines using GitHub Actions
 - 🤖 Exploring AI integration and Machine Learning in iOS applications
+
+## 🛠️ Tech Stack
+
+**iOS Development**  
+`Swift` `SwiftUI` `UIKit` `Combine` `Core Data`
+
+**Architecture & Design**  
+`Clean Architecture` `MVVM` `SOLID` `Repository Pattern` `Dependency Injection`
+
+**Concurrency**  
+`Swift Concurrency` `async/await` `Actors` `GCD`
+
+**Networking**  
+`URLSession` `REST APIs` `Codable`
+
+**Testing & Code Quality**  
+`XCTest` `SwiftLint` `Code Coverage`
+
+**CI/CD & Tools**  
+`Git` `GitHub` `GitHub Actions` `Xcode`
+
+**AI & Machine Learning**  
+`OpenAI API` `Embeddings` `Vector Databases` `Core ML`
