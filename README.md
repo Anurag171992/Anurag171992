@@ -9,7 +9,7 @@
   />
 </p>
 
-Senior iOS Engineer with 8+ years of experience building reliable, scalable, and maintainable iOS applications. Experienced in modern iOS development, application architecture, concurrency, testing, CI/CD, and AI-powered mobile experiences.
+Senior iOS Engineer with 7+ years of experience building reliable, scalable, and maintainable iOS applications. Experienced in modern iOS development, application architecture, concurrency, testing, CI/CD, and AI-powered mobile experiences.
 
 ---
 
