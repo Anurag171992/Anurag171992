@@ -18,8 +18,7 @@ Senior iOS Engineer with 7+ years of experience building reliable, scalable, and
 - 📱 7+ years of experience in iOS application development
 - 🏗️ Experienced with Clean Architecture, MVVM, SOLID principles, and Dependency Injection
 - ⚡ Building responsive applications using Swift Concurrency, async/await, Actors, and GCD
-- 🧪 Focused on unit testing, code quality, maintainability, and reliable application behavior
-- 🔄 Hands-on experience building iOS CI pipelines using GitHub Actions
+- 🧪 Focused on unit testing, code quality, maintainability, and reliable application behaviour
 - 🤖 Exploring AI integration, LLM-powered applications, and Machine Learning on iOS
 - 📦 Building reusable and testable Swift components and packages
 
